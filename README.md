@@ -2,7 +2,7 @@
 <img align="center" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" width="100%" height="400px"/>
 </p>
 <h1 align="center">Hi 👋, I'm Smit Rathod</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India with a strong interest in React, Next.js, and other front-end frameworks.</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India with a strong interest in React, PHP, WordPress and other frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smit2808&label=Profile%20views&color=0e75b6&style=flat" alt="smit2808" /> </p>
 
