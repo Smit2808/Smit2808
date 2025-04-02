@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" width="100%" height="400px"/>
+<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB1Z2ZvdG9ocDdiNXduYTJpMDZmdnpzenowYmo3YWNtZ2tmaGF0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="auto"/>
 </p>
 <h1 align="center">Hi 👋, I'm Smit Rathod</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India with a strong interest in React, PHP, WordPress and other frameworks.</h3>
